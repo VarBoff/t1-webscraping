@@ -1,0 +1,4 @@
+name: client
+channels:
+  - defaults
+prefix: /home/21103109/.conda/envs/client
